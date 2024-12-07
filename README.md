@@ -25,7 +25,7 @@ Código asociado a mis artículos en substack
       </a>
     </td>
     <td>
-      <a href="" target="_blank">
+      <a href="https://github.com/GEJ1/substack/blob/main/Metodos_Magicos_Python.ipynb" target="_blank">
         <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40">
       </a>
     </td>
