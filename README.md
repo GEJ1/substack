@@ -30,5 +30,16 @@ Código asociado a mis artículos en substack
       </a>
     </td>
   </tr>
+    <tr>
+    <td>
+      <a href="" target="_blank">
+        *args y **kwargs en Python
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/GEJ1/substack/blob/main/args_kwargs.ipynb" target="_blank">
+        <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40">
+      </a>
+    </td>
+  </tr>
 </table>
-
