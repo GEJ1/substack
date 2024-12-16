@@ -32,7 +32,7 @@ Código asociado a mis artículos en substack
   </tr>
     <tr>
     <td>
-      <a href="" target="_blank">
+      <a href="https://gustavojuantorena.substack.com/p/args-y-kwargs-en-python" target="_blank">
         *args y **kwargs en Python
       </a>
     </td>
